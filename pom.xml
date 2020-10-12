@@ -5,6 +5,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>hbut-user</module>
+        <module>hbut-system</module>
+        <module>hbut-backend</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
